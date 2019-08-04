@@ -1,0 +1,10 @@
+F:\project\SignalR\SignalR.Client\bin\Debug\netcoreapp2.2\SignalR.Client.deps.json
+F:\project\SignalR\SignalR.Client\bin\Debug\netcoreapp2.2\SignalR.Client.runtimeconfig.json
+F:\project\SignalR\SignalR.Client\bin\Debug\netcoreapp2.2\SignalR.Client.runtimeconfig.dev.json
+F:\project\SignalR\SignalR.Client\bin\Debug\netcoreapp2.2\SignalR.Client.dll
+F:\project\SignalR\SignalR.Client\obj\Debug\netcoreapp2.2\SignalR.Client.csproj.CoreCompileInputs.cache
+F:\project\SignalR\SignalR.Client\obj\Debug\netcoreapp2.2\SignalR.Client.AssemblyInfoInputs.cache
+F:\project\SignalR\SignalR.Client\obj\Debug\netcoreapp2.2\SignalR.Client.AssemblyInfo.cs
+F:\project\SignalR\SignalR.Client\bin\Debug\netcoreapp2.2\SignalR.Client.pdb
+F:\project\SignalR\SignalR.Client\obj\Debug\netcoreapp2.2\SignalR.Client.dll
+F:\project\SignalR\SignalR.Client\obj\Debug\netcoreapp2.2\SignalR.Client.pdb
