@@ -12,7 +12,7 @@ namespace SignalR.Client
         {
             // 依赖包：Microsoft.AspNetCore.SignalR.Client
 
-
+            //http://www.80iter.com/blog/1446511389621678
             //官网
             //https://docs.microsoft.com/zh-cn/aspnet/core/signalr/dotnet-client?view=aspnetcore-2.2
             //https://docs.microsoft.com/zh-cn/aspnet/signalr/overview/guide-to-the-api/hubs-api-guide-net-client
